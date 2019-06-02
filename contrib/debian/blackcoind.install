@@ -1,0 +1,2 @@
+debian/bin/topazd usr/bin
+src/topazd usr/lib/topaz

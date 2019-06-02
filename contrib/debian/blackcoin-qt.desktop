@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Topaz
+Comment=Topaz P2P Cryptocurrency
+Comment[fr]=Topaz, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Topaz, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/topaz-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/topaz;
+Categories=Office;

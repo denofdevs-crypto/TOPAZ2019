@@ -1,3 +1,3 @@
-Just another project
+For more information, please visit topazcrypto.com
 
 

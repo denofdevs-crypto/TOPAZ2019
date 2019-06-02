@@ -1,3 +1,3 @@
-Development moved to https://gitlab.com/blacknet-ninja
+Just another project
 
-https://topaz.org/ aims to continue on Topaz chain.
+
